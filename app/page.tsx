@@ -82,6 +82,7 @@ export default function Home() {
                 <li>Coding</li>
                 <li>Quick Learner</li>
                 <li>Problem Solving</li>
+                <li>I Use Arch Btw</li>
               </ul>
             </div>
 
